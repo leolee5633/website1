@@ -1,0 +1,10 @@
+# basic options
+title: New-website
+author: Leo
+email: leolee5633@gmail.com
+description: nice!
+
+
+# build settings
+markdown: kramdown
+theme: minima
