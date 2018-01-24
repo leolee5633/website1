@@ -3,13 +3,13 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
+This is personal page about myself. I've been learning to set up this webpage and it should grow up one day to a wonderful website of my thoughts and ideas.
 Hope you love it!
 
-Reasons:
-- its great.
-- its a test.
+# To do:
+- Learn how to create a drop menu that directs people to different sub-webpages.
+- Learn how to incorparate github projects into the webpage.
 
-## Other thoughts
+# Other thoughts
 
-This is great.
+So far so good. Keep learning.
