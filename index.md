@@ -4,8 +4,7 @@ layout: default
 
 
 <div> 
-    <img src="{{ site.url }}/images/leo.jpg" alt="leo" style="width:45%;" >
-    
+    <img src="{{ site.url }}/images/leo.jpg" alt="leo" style="width:100%;" >
 </div>
 
 
