@@ -1,8 +1,8 @@
 # basic options
-title: New-website
+title: Leo's personal hub
 author: Leo
 email: leolee5633@gmail.com
-description: nice!
+description: A small website to share my ideas and thoughts.
 
 # build settings
 markdown: kramdown
