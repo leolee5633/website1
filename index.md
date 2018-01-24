@@ -4,7 +4,7 @@ layout: default
 
 
 <div> 
-    <img src="images/leo.jpg" alt="leo" style="width:50%;" >
+    <img src="images/leo.jpg" alt="leo" style="width:30%;" >
 </div>
 
 
